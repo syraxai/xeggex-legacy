@@ -5,4 +5,4 @@ XeggeX (legacy) is written in C++. This was never used because of bugs and issue
 This cant be runned due lack of code and bugs
 
 # License
-(c) Syrax AI Group, Inc. All rights reserved
+(c) EverAI Incorporated, All Rigths Reserved
